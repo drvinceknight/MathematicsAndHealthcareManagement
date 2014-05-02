@@ -43,6 +43,8 @@ This has a huge effect on the performance of a system:
 
 ![](./Images/simulation.png)
 
+Here's a video on YouTube describing this: [https://www.youtube.com/watch?v=i3ZEqc8dkZk](https://www.youtube.com/watch?v=i3ZEqc8dkZk).
+
 ## Bed management
 
 This is what we're interested in.
