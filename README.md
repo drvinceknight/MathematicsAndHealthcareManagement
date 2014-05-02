@@ -117,6 +117,6 @@ Modelling allows for a variety of what ifs to be considered.
 
 ## Contact details
 
-- [www.vincent-knight.com]
-- [+VincentKnight]
-- [@drvinceknight]
+- [www.vincent-knight.com](www.vincent-knight.com)
+- [+VincentKnight](https://plus.google.com/+VincentKnight/posts)
+- [@drvinceknight](https://twitter.com/drvinceknight)
