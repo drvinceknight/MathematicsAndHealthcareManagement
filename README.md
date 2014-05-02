@@ -130,6 +130,10 @@ Modelling allows for a variety of what ifs to be considered.
 
 - Angelico Fetta: Looking at effects on smoking cessation.
 
+## Choice
+
+- Knight, V. A. and Harper, P. R. 2013. The impact of choice on public services. European Journal of Operational Research
+
 ## Embedding Mathematicians in Healthcare
 
 ![](Images/team.png)
