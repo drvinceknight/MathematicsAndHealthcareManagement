@@ -105,13 +105,32 @@ Modelling allows for a variety of what ifs to be considered.
 
 ## Critical Care Unit
 
+- Griffiths, J. D., Knight, V. A. and Komenda, I. 2013. Bed management in a critical care unit. IMA Journal of Management Mathematics 24(2)
+
 ## Emergency Unit
 
-## Surgery
+- Gillard, J. W. and Knight, V. A. 2014. Using singular spectrum analysis to obtain staffing level requirements in emergency units. Journal of the Operational Research Society 65(5), pp. 735-746
+
+## Surgery Scheduling
+
+- Lizzie Rowse: PhD student working on scheduling of surgery.
+- Penny Holborn: Reducing cancellations for Day of Surgery Admissions.
 
 ## Emergency Medical Vehicles
 
+- Knight, V. A., Harper, P. R. and Smith, L. 2012. Ambulance allocation for maximal survival with heterogeneous outcome measures. OMEGA -The International Journal of Management Science. 40(6)
+
+## Weather
+
+- Paul Harper, Julie Vile, John Minty: MetSim.
+
+## Social Networks
+
+- Angelico Fetta: Looking at effects on smoking cessation.
+
 ## Embedding Mathematicians in Healthcare
+
+![](Images/team.png)
 
 ## What next?
 
